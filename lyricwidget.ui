@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LyricWidget</class>
+ <widget class="QWidget" name="LyricWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>319</width>
+    <height>110</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background color:rgb(245,242,233)</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="lyricsLabel1">
+     <property name="styleSheet">
+      <string notr="true">color:rgb(234,216,154);
+font-weight: bold;
+font-family: 黑体;</string>
+     </property>
+     <property name="text">
+      <string>上一句</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="lyricsLabel2">
+     <property name="text">
+      <string>下一句</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

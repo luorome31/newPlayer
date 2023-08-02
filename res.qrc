@@ -1,0 +1,84 @@
+<RCC>
+    <qresource prefix="/titleImage">
+        <file>image/titleImage/backPage.png</file>
+        <file>image/titleImage/max.png</file>
+        <file>image/titleImage/maxHover.png</file>
+        <file>image/titleImage/meaasgeHover.png</file>
+        <file>image/titleImage/message.png</file>
+        <file>image/titleImage/messageHover.png</file>
+        <file>image/titleImage/min.png</file>
+        <file>image/titleImage/minHover.png</file>
+        <file>image/titleImage/mini.png</file>
+        <file>image/titleImage/miniHover.png</file>
+        <file>image/titleImage/nextPage.png</file>
+        <file>image/titleImage/quit.png</file>
+        <file>image/titleImage/quitHover.png</file>
+        <file>image/titleImage/restore.png</file>
+        <file>image/titleImage/restoreHover.png</file>
+        <file>image/titleImage/separate.png</file>
+        <file>image/titleImage/set.png</file>
+        <file>image/titleImage/set2.png</file>
+        <file>image/titleImage/set3.png</file>
+        <file>image/titleImage/setHover.png</file>
+        <file>image/titleImage/setHover3.png</file>
+        <file>image/titleImage/skin.png</file>
+        <file>image/titleImage/skinHover.png</file>
+        <file>image/titleImage/VIP (1).png</file>
+        <file>image/titleImage/VIP.png</file>
+        <file>image/titleImage/gouxiongling.png</file>
+        <file>image/titleImage/xiongda.jpg</file>
+        <file>image/titleImage/xionger.jpg</file>
+    </qresource>
+    <qresource prefix="/statusImage">
+        <file>image/statusImage/24gl-repeatOnce2 (1).png</file>
+        <file>image/statusImage/24gl-repeatOnce2.png</file>
+        <file>image/statusImage/handle.png</file>
+        <file>image/statusImage/handle2.png</file>
+        <file>image/statusImage/handle3.png</file>
+        <file>image/statusImage/lastMusic.png</file>
+        <file>image/statusImage/lastMusic-hover.png</file>
+        <file>image/statusImage/list-loop.png</file>
+        <file>image/statusImage/list-loop-hover.png</file>
+        <file>image/statusImage/listRepeat.png</file>
+        <file>image/statusImage/listRepeat-hover.png</file>
+        <file>image/statusImage/lyric.png</file>
+        <file>image/statusImage/lyric-hover.png</file>
+        <file>image/statusImage/nextMusic.png</file>
+        <file>image/statusImage/nextMusic-hover.png</file>
+        <file>image/statusImage/novolume.png</file>
+        <file>image/statusImage/novolume-hover.png</file>
+        <file>image/statusImage/pause.png</file>
+        <file>image/statusImage/play.png</file>
+        <file>image/statusImage/play-hover.png</file>
+        <file>image/statusImage/shufflePlay.png</file>
+        <file>image/statusImage/shufflePlay-hover.png</file>
+        <file>image/statusImage/shunxuPlay.png</file>
+        <file>image/statusImage/shunxuPlay-hover.png</file>
+        <file>image/statusImage/singleCycle.png</file>
+        <file>image/statusImage/singleCycle-hover.png</file>
+        <file>image/statusImage/volume.png</file>
+        <file>image/statusImage/volume-hover.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/search_change.png</file>
+        <file>image/search_wyy.png</file>
+        <file>image/musicIcon.png</file>
+        <file>image/findMusic/tab1.jpg</file>
+        <file>image/findMusic/tab2.jpg</file>
+        <file>image/findMusic/tab3.jpg</file>
+        <file>image/findMusic/tab4.jpg</file>
+        <file>image/findMusic/tab5.jpg</file>
+        <file>image/findMusic/tab6.jpg</file>
+        <file>image/findMusic/tab7.jpg</file>
+        <file>image/findMusic/tab8.jpg</file>
+        <file>image/findMusic/title.jpg</file>
+        <file>image/findMusic/titlebackground.png</file>
+        <file>image/findMusic/tab9.jpg</file>
+        <file>image/findMusic/tab10.jpg</file>
+        <file>image/findMusic/tab11.jpg</file>
+        <file>image/findMusic/tab12.jpg</file>
+        <file>image/findMusic/list1.jpg</file>
+        <file>image/findMusic/list2.jpg</file>
+        <file>bear.png</file>
+    </qresource>
+</RCC>
